@@ -9,3 +9,4 @@ print(type(mi_objeto)) # devuelve: <class '__main__.MiClase'>
 #Edicion1
 #Edicion2
 #Edicion3
+#Edicion4
