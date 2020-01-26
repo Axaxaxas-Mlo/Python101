@@ -10,3 +10,5 @@ print(type(mi_objeto)) # devuelve: <class '__main__.MiClase'>
 #Edicion2
 #Edicion3
 #Edicion4
+
+#Opcion2
