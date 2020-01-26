@@ -6,3 +6,6 @@ class MiClase(object): # creamos una clase, una clase es como un template, un bl
 mi_objeto = MiClase() # creamos un objeto de clase MiClase
 mi_objeto.saluda() # llamamos la funcion 'saluda' de la clase MiClase
 print(type(mi_objeto)) # devuelve: <class '__main__.MiClase'>
+#Edicion1
+#Edicion2
+#Edicion3
