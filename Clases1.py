@@ -12,3 +12,5 @@ print(type(mi_objeto)) # devuelve: <class '__main__.MiClase'>
 #Edicion4
 
 #Opcion2
+
+# Edicion para ver en GitHub
